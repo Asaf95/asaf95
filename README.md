@@ -5,9 +5,9 @@
 My Job is to develop and maintain tools & systems that make our day-2-day work more effective, atuomated, and faster.
 <br> My focus is Developers tools and Artificial Intelligence Optimization frameworks.
 
-Skills: Python <br>- Pandas <br>
-               - Plotly Dash <br>
-               - Google OR-Tools
+Skills:<br> Python <br>- Pandas <br>
+                - Plotly Dash <br>
+                - Google OR-Tools
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asaf95)  
 
