@@ -5,6 +5,4 @@
 My Job is to develop and maintain tools & systems that make our day-2-day work more effective, atuomated, and faster.
 <br> My focus is Developers tools and Artificial Intelligence Optimization frameworks.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asaf95)  
-
 <a href="https://www.linkedin.com/in/asafbm/"><img src="https://img.shields.io/badge/-Asaf%20Ben%20Menachem-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asafbm/" /></a>
