@@ -6,7 +6,8 @@ My Job is to develop and maintain tools & systems that make our day-2-day work m
 <br> My focus is Developers tools and Artificial Intelligence Optimization frameworks.
 
 Skills:<br>
-Python 
+* Python 
+* * d
 * Pandas 
 * Plotly Dash 
 * Google OR-Tools
