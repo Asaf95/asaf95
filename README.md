@@ -1,5 +1,5 @@
-### Hi there 👋, Asaf Ben-Menachem
-#### DevOps Infrastructure Engineer
+### Hi there 👋,my name is Asaf Ben-Menachem
+#### I'm a DevOps Infrastructure Engineer
 ![DevOps Infrastructure Engineer](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/11/Screenshot-2019-11-20-at-11.48.13-AM.png)
 
 My Job is to develop and maintain tools or systems that make our day-2-day work more effective, atuomated, and faster.
