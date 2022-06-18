@@ -1,76 +1,16 @@
-### Hi there 👋
-<h2> Nadav Erez 👋 </h2>
+### Hi there 👋, Asaf Ben-Menachem
+#### DevOps Infrastructure Engineer
+![DevOps Infrastructure Engineer](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/11/Screenshot-2019-11-20-at-11.48.13-AM.png)
 
-Welcome to my Github, feel free to poke around! 😄 👀 🏄
+My Job is to develop and maintain tools or systems that make our day-2-day work more effective, atuomated, and faster.
+ My focus is Developers tools and Artificial Intelligence Optimization frameworks.
 
-<h4> Tools / Software: </h4>
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-<a href="https://jupyter.org/">
-  <img 
-    alt="Jupyter Notebook"
-    height="40"
-    width="40"
-    src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" />
- </a>
-<a href="https://www.spyder-ide.org/">
-  <img 
-    alt="Spyder"
-    height="40"
-    width="40"
-    src="https://www.iconninja.com/files/387/241/224/spyder-icon.png" />
-  </a>
-  <a href="https://www.mysql.com/">
-  <img 
-    alt="MySQL"
-    height="38"
-    width="38"
-    src="https://gogeticon.net/files/3163570/8c769724b1beaf7ab86ba104d2545e90.png" />
-   </a>
-   <a href="https://www.rstudio.com/">
-  <img 
-    alt="RStudio"
-    height="40"
-    width="40"
-    src="https://cdn.icon-icons.com/icons2/1508/PNG/512/rstudio_104598.png" />
-  </a>
-  <a href="https://powerbi.microsoft.com/en-au/">
-  <img 
-    alt="Power BI"
-    height="40"
-    width="40"
-    src="https://www.enliten-it.com/wp-content/uploads/2018/12/PowerBI-Icon.png" />
-  </a>
-  <a href="https://www.atlassian.com/software/jira">
-  <img 
-    alt="Jira"
-    height="40"
-    width="40"
-    src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-  <img 
-    alt="Excel"
-    height="40"
-    width="40"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" />
-  </a>
-    
-<h4> 📱  Contact Me: 📱 </h4>
-<a href="https://www.linkedin.com/in/nadaverez/"><img src="https://img.shields.io/badge/-Nadav%20Erez-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nadaverez/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+- 🔭 I’m currently working on this page. 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-nadaverez56@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nadaverez56@gmail.com)](mailto:nadaverez56@gmail.com)
-<!--
-**Asaf95/asaf95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asaf95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asafbm//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlecloud.svg' alt='googlecloud' height='40'>](https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_170066.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'>](https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146237.png)  
 
-Here are some ideas to get you started:
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
